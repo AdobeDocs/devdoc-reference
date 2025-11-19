@@ -3,79 +3,23 @@ title: Overview - Block Examples
 description: Explore all available blocks for the Adobe Developer documentation site, including content blocks, code blocks, and API documentation components.
 ---
 
-# DevDoc Block Examples
+<SuperHero slots="heading, text" background="rgb(154, 23, 34)"/>
 
-This page provides links to examples of all available blocks in the Adobe Developer documentation site.
+# Adobe Developer Documentation Block Reference
 
-## Content Blocks
+The Adobe Developer Documentation Block Reference provides a comprehensive catalog of reusable content blocks for building rich, interactive documentation experiences.
 
-### [Accordion](accordion/index.md)
-Collapsible content sections for organizing information.
+## Overview
 
-### [Announcement](announcement/index.md)
-Display important announcements or notices.
+This reference site showcases all available blocks that can be used to create engaging developer documentation. Each block is a modular component designed to present specific types of content, from hero banners and code examples to interactive API documentation and media resources.
 
-### [Column](column/index.md)
-Multi-column layouts for content organization.
+These blocks provide a consistent, standardized way to structure and display content across Adobe developer documentation sites. Whether you're building tutorials, API references, or product guides, these blocks enable you to create professional, accessible documentation efficiently.
 
-### [Discover Block](discoverblock/index.md)
-Showcase featured content or resources.
+## Categories of Blocks
 
-### [Edition](edition/index.md)
-Edition-specific content display.
+There are three main categories of blocks available:
 
-### [HeroSimple](herosimple/herosimple-default.md)
-- [HeroSimple (default)](herosimple/herosimple-default.md)
-- [HeroSimple fullWidth](herosimple/herosimple-fullwidth.md)
-- [HeroSimple halfWidth](herosimple/herosimple-halfwidth.md)
+* **Content Blocks**: Foundational layout and content presentation blocks including heroes, accordions, columns, tabs, and more. These blocks help organize and structure your documentation content.
+* **Code Blocks**: Specialized blocks for displaying code snippets with syntax highlighting, language selection, line highlighting, and various formatting options.
+* **API Documentation Blocks**: Interactive API reference blocks powered by Redocly, providing comprehensive API documentation with customizable layouts and configurations.
 
-### [Image](image/index.md)
-Image display and formatting examples.
-
-### [Inline Alert](inline-alert/index.md)
-Inline alert messages for warnings, tips, and notes.
-
-### [List](list/index.md)
-Various list formatting options.
-
-### [Resources](resources/resources.md)
-- [Resources Block](resources/resources.md)
-- [Resources with No Hero](resources/resources-with-no-hero.md)
-
-### [Superhero](superhero/index.md)
-- [Superhero (default)](superhero/superhero-default.md)
-- [Superhero centered](superhero/superhero-centered.md)
-- [Superhero centeredXL](superhero/superhero-centeredxl.md)
-- [Superhero halfWidth](superhero/superhero-halfwidth.md)
-- [Superhero halfWidth with background image](superhero/superhero-halfwidth-with-background-image.md)
-- [Superhero halfWidth with background image and video](superhero/superhero-halfwidth-with-background-image-and-video.md)
-
-
-### [Tab](tab/index.md)
-Tabbed content for organizing related information.
-
-## Code Blocks
-
-### [Code Block Examples](codeblock/code-block.md)
-- [Basic Code Block](codeblock/code.md)
-- [Code Block (Standard)](codeblock/code-block.md)
-- [Code Block with Picklist](codeblock/code-block-with-picklist.md)
-- [Code Block without Picklist](codeblock/code-block-without-picklist.md)
-- [Code with Highlighted Lines](codeblock/code-highlighted-line.md)
-- [Code in Lists](codeblock/code-in-list.md)
-- [Code in Tables](codeblock/code-in-table.md)
-- [Code Overload Example](codeblock/code-overload.md)
-- [Code Example 0](codeblock/code-0.md)
-
-## API Documentation
-
-### [Redocly API Block](redoclyapiblock/redocly-api-block-default.md)
-Interactive API documentation using Redocly.
-
-- [Default API Block](redoclyapiblock/redocly-api-block-default.md)
-- [API Block Configurations](redoclyapiblock/redocly-api-block-configs.md)
-- [API Block without Layout](redoclyapiblock/redocly-api-block-no-layout.md)
-- [API Block without Sidebar](redoclyapiblock/redocly-api-block-no-sidebar.md)
-- [API Block without Sidebar and Search](redoclyapiblock/redocly-api-block-no-sidebar-no-search.md)
-- [API Block without Y-Scroll Offset](redoclyapiblock/redocly-api-block-no-y-scroll-offset.md)
-- [Redocly Overflow Example](redoclyapiblock/redocly-overflow.md)
