@@ -1,5 +1,5 @@
 - pathPrefix:
-    - /devdoc-reference/docs/
+    - /dev-docs-reference/
 
 - pages:
     - [Overview](index.md)
