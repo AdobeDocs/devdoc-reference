@@ -2,7 +2,7 @@
 
 ![Gradient background transitioning from pink at the top to blue at the bottom, with no visible objects or text.](../../assets/vertical-gradient.png)
 
-[video_url](https://developer.adobe.com/test/melissa/superhero/express-add-ons.mp4)
+[video_url](https://main--adp-devsite--adobedocs.aem.page/test/melissa/superhero/media_18687901ae5613eb6494cfe0da186a541403e0feb.mp4)
 
 # Build add-ons for a global creative community.
 
