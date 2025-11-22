@@ -102,11 +102,11 @@ Interactive API documentation using Redocly.
 - [Redocly Overflow Example](blocks/redoclyapiblock/redocly-overflow.md)
 
 
-<Banner slot="heading, text, button"/>
+<Summary slot="image, text, button"/>
 
-# This is a banner
+![Hero image](../assets/hero.png)
 
-Unlock the potential of Photoshop, Lightroom, and cutting edge Sensei services through an easy-to-use RESTful API.
+This is a banner
 
 * [Get the SDKs](https://developer.adobe.com/console/servicesandapis/ae)
 
