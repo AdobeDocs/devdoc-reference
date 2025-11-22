@@ -2,7 +2,7 @@
 
 ![Gradient background transitioning from pink at the top to blue at the bottom, with no visible objects or text.](../../assets/vertical-gradient.png)
 
-[video_url](https://developer-stage.adobe.com/test/melissa/superhero/express-add-ons.mp4)
+[video_url](https://main--adp-devsite--adobedocs.aem.page/test/melissa/superhero/media_18687901ae5613eb6494cfe0da186a541403e0feb.mp4)
 
 # Build add-ons for a global creative community.
 
@@ -10,3 +10,5 @@
 
 * [Get started](https://developer.adobe.com/express/add-ons/docs/guides?aio_external)
 * [Explore add-ons](https://new.express.adobe.com/add-ons)
+
+Video: Upload to Google Drive, publish the video, copy its URL, and add it as a markdown link in the `video` slot
