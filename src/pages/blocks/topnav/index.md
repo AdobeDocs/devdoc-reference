@@ -59,7 +59,7 @@ In addition to the pages defined in your config, the navigation bar includes:
 
 These are followed by your custom pages defined in the `pages` array.
 
-![Top Navigation Example](../../assets/topnav-example.png)
+![Top Navigation Example](../../assets/topnav.png)
 
 ## Path Resolution
 
